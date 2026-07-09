@@ -19,4 +19,4 @@ Resource group created successfully.
 - The RG region only stores metadata — resources inside
   can be in other regions
 
-## Issues faced
+![create screen](images/lab01-create.png)
