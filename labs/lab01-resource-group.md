@@ -18,4 +18,5 @@ Resource group created successfully.
 - Deleting the RG deletes everything inside it
 - The RG region only stores metadata — resources inside
   can be in other regions
-  ![create screen](images/lab01-create.png)
+
+![create screen](images/lab01-create.png)
